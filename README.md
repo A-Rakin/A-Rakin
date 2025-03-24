@@ -1,4 +1,4 @@
-![MasterHead]([https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1](https://github.com/trinib/trinib))
+![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 <h1 align="center">Hi 👋, I'm Abrar Rakin</h1>
 <h3 align="center">A passionate Deep Learning Enthusiast, Flutter Mobile App developer, Front End Developer from Dhaka, Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
