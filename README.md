@@ -1,15 +1,15 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Abrar Rakin</h1>
-<h3 align="center">A passionate Front End, Mobile App developer from Dhaka, Bangladesh.</h3>
+<h3 align="center">A passionate Front End Developer, Deep Learning Enthusiast, Flutter Mobile App developer from Dhaka, Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 
-- 🔭 I’m currently working on **WooCommerce**
+- 🔭 I’m currently working on **Deep Learning Models**
 
-- 🌱 I’m currently learning **Flutter App Development, WordPress Web Development and Competitive Programming**
+- 🌱 I’m currently learning **Flutter App Development, Deep Learning and Competitive Programming**
 
-- 💬 Ask me about **Programming, Flutter and WordPress**
+- 💬 Ask me about **Programming, Flutter and WordPress and Deep Learning**
 
 - 📫 How to reach me **rakinabrar151@gmail.com**
 
