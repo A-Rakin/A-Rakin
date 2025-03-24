@@ -13,6 +13,20 @@
 
 - ⚡ Fun fact **I am Knowledge Seeker**
 
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rakin-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rakin-12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abrar-rakin-99a039229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrar-rakin-99a039229/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/abrarrakin121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abrarrakin121" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/erorabrarrakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/erorabrarrakin" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_.abrar_.rakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.abrar_.rakin/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/a_rakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_rakin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abrar_rakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abrar_rakin" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/semicolon_savior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/semicolon_savior" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/black_list" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="black_list" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abrarraxfrx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abrarraxfrx/" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
