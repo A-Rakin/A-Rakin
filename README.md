@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+![MasterHead]([https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))
 <h1 align="center">Hi 👋, I'm Abrar Rakin</h1>
 <h3 align="center">A passionate Deep Learning Enthusiast, Flutter Mobile App developer, Front End Developer from Dhaka, Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
