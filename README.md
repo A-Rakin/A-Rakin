@@ -1,4 +1,4 @@
-![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif))
+![MasterHead]([https://camo.githubusercontent.com/3e4d5422af05e800754cc79379ef41659dbcbf84ff73757fca05f1b1c7774619/68747470733a2f2f63646e2e72656e746563686469676974616c2e636f6d2f636f6d6d6f6e5f66696c65732f636f6d6d6f6e5f696e746567726174696f6e2f7377697065636172742f426c6f672f6d616368696e652d6c6561726e696e672d312e676966]))
 <h1 align="center">Hi 👋, I'm Abrar Rakin</h1>
 <h3 align="center">A passionate Deep Learning Enthusiast, Flutter Mobile App developer, Front End Developer from Dhaka, Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
