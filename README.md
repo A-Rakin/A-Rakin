@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Deep Learning, Competitive Programming, App Development**
 
-- 💬 Ask me about **Programming, Deep Learning**
+- 💬 Ask me about **Deep Learning, Machine Learning, Natural Language Processing**
 
 - 📫 How to reach me **rakinabrar151@gmail.com**
 
-- ⚡ Fun fact **I am Knowledge Seeker**
+- ⚡ Fun fact **I am Knowledge Seeker, Video Gamer**
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
