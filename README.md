@@ -43,9 +43,9 @@ const abrar = {
     education:   "BSc in CSE — IUBAT",
     
     currentlyWorking: [
-        "Research & Publications",
-        "Graph Neural Networks",
-    ],
+        "Software Developer Intern",
+        "Research & Publications"
+],
     
     domains: {
         ai: [ "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Generative AI", "Explainable AI"],
