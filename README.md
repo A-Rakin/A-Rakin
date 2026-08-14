@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abrar%20Rakin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Researcher%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abrar%20Rakin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Deep%20Learning%20Engineer%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
   
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -31,32 +31,45 @@
 
 <!-- ═══════════════════════════════════ ABOUT ME ══════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+## &nbsp;`> whoami`
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
+```js
+// ╔══════════════════════════════════════════════════════════════╗
+// ║                    𝗔𝗕𝗥𝗔𝗥  𝗥𝗔𝗞𝗜𝗡                              ║
+// ╚══════════════════════════════════════════════════════════════╝
 
-```yaml
-name: Abrar Rakin
-location: Dhaka, Bangladesh 🇧🇩
-education: BSc in CSE, IUBAT
-current_focus:
-  - Deep Learning Research & Publications
-  - Graph Neural Networks
-  - Natural Language Processing
-  - Computer Vision
-  
-roles:
-  - AI/ML Researcher
-  - Mobile App Developer (Flutter)
-  - Full-Stack Software Developer
-
-fun_facts:
-  - ⚡ Knowledge Seeker & Video Gamer
-  - 🏆 449+ GitHub Contributions this year
-  - 🔬 Actively publishing research papers
+const abrar = {
+    location:    "Dhaka, Bangladesh 🇧🇩",
+    education:   "BSc in CSE — IUBAT",
+    
+    currentlyWorking: [
+        "Deep Learning Research & Publications",
+        "Graph Neural Networks",
+    ],
+    
+    domains: {
+        ai:     ["Deep Learning", "NLP", "Computer Vision", "GNNs"],
+        mobile: ["Flutter", "Android"],
+        web:    ["Django", ".NET", "C#"],
+    },
+    
+    askMeAbout: [
+        "Neural Network Architectures",
+        "Research Paper Writing",
+        "Building AI-powered Applications",
+    ],
+    
+    funFact: "I debug code better at 3AM than 3PM ☕🌙",
+};
 ```
 
-<br clear="right"/>
+<div align="center">
+
+```
+   🔬 Research    ·    🧠 Deep Learning    ·    📱 Mobile Dev    ·    🌐 Full-Stack
+```
+
+</div>
 
 ---
 
