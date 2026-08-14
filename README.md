@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abrar%20Rakin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Deep%20Learning%20Engineer%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abrar%20Rakin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
   
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -43,14 +43,15 @@ const abrar = {
     education:   "BSc in CSE — IUBAT",
     
     currentlyWorking: [
-        "Deep Learning Research & Publications",
+        "Research & Publications",
         "Graph Neural Networks",
     ],
     
     domains: {
-        ai:     ["Deep Learning", "NLP", "Computer Vision", "GNNs"],
+        ai: [ "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Generative AI", "Explainable AI"],
         mobile: ["Flutter", "Android"],
-        web:    ["Django", ".NET", "C#"],
+        web framework:    ["Django", ".NET", "Flask", "Express.js"],
+        Database:    ["MySQL", "SQLite", "PostgreSQL"],
     },
     
     askMeAbout: [
