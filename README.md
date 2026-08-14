@@ -162,9 +162,6 @@ const abrar = {
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555&cache_bypass=1" alt="GitHub Streak Stats" width="70%"/>
-</div>
 
 <br/>
 
