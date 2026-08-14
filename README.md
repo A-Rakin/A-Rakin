@@ -1,38 +1,286 @@
-![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-<h1 align="center">Hi 👋, I'm Abrar Rakin</h1>
-<h3 align="center">A passionate Artificial Intelligence Enthusiast, Mobile App developer, Software Developer from Dhaka, Bangladesh.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"> -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         ABRAR RAKIN — GITHUB PROFILE                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-- 🔭 Currently working on **Deep Learning Models, Research Publications**
+<div align="center">
+  
+  <!-- ANIMATED HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abrar%20Rakin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Deep%20Learning%20Engineer%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  
+  <!-- TYPING SVG ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%AC+Exploring+the+Frontiers+of+Deep+Learning;%F0%9F%A7%A0+Graph+Neural+Networks+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+  </a>
+  
+  <!-- PROFILE VIEWS & SOCIAL BADGES -->
+  <br/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=A-Rakin&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+    &nbsp;
+    <a href="https://github.com/A-Rakin?tab=followers">
+      <img src="https://img.shields.io/github/followers/A-Rakin?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/A-Rakin?tab=repositories">
+      <img src="https://img.shields.io/badge/Repos-92+-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Repos"/>
+    </a>
+  </p>
+</div>
 
-- 🌱 Currently learning **Deep Learning, Graph Neural Network**
+---
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Natural Language Processing, Computer Vision**
+<!-- ═══════════════════════════════════ ABOUT ME ══════════════════════════════ -->
 
-- 📫 How to reach me **rakinabrar151@gmail.com**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-- ⚡ Fun fact **I am Knowledge Seeker, Video Gamer**
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rakin-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rakin-12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abrar-rakin-99a039229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrar-rakin-99a039229/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abrarrakin121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abrarrakin121" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/erorabrarrakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/erorabrarrakin" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.abrar_.rakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.abrar_.rakin/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/a_rakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_rakin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abrar_rakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abrar_rakin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/semicolon_savior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/semicolon_savior" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/black_list" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="black_list" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abrarraxfrx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abrarraxfrx/" height="30" width="40" /></a>
+```yaml
+name: Abrar Rakin
+location: Dhaka, Bangladesh 🇧🇩
+education: BSc in CSE, IUBAT
+current_focus:
+  - Deep Learning Research & Publications
+  - Graph Neural Networks
+  - Natural Language Processing
+  - Computer Vision
+  
+roles:
+  - AI/ML Researcher
+  - Mobile App Developer (Flutter)
+  - Full-Stack Software Developer
+
+fun_facts:
+  - ⚡ Knowledge Seeker & Video Gamer
+  - 🏆 449+ GitHub Contributions this year
+  - 🔬 Actively publishing research papers
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════ TECH STACK ════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI / Machine Learning / Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rakin&" alt="a-rakin" /></p>
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ FEATURED PROJECTS ═════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 AI & Deep Learning
+<a href="https://github.com/A-Rakin/brain-tumor-mri">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=brain-tumor-mri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/forecasting-dengue-outbreaks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=forecasting-dengue-outbreaks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/Breast-Cancer-Classification-using-Deep-Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=Breast-Cancer-Classification-using-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🚀 Applications & Tools
+<a href="https://github.com/A-Rakin/covercraftai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=covercraftai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/resumate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=resumate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/researchhubAi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=researchhubAi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔬 Research & NLP
+<a href="https://github.com/A-Rakin/papercompass">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=papercompass&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/linguamate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=linguamate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🌐 Web & Mobile
+<a href="https://github.com/A-Rakin/pcnexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=pcnexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+<a href="https://github.com/A-Rakin/vaultcipher">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=vaultcipher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ══════════════════════════ GITHUB STATISTICS ══════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Rakin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Abrar's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rakin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak Stats" width="70%"/>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Rakin&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════ CONNECT WITH ME ════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+
+<div align="center">
+  <a href="mailto:rakinabrar151@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abrar-rakin-99a039229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/abrarrakin121">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/erorabrarrakin">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_.abrar_.rakin/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Competitive Programming
+  <a href="https://codeforces.com/profile/semicolon_savior">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/black_list">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/a_rakin">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/abrar_rakin">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/abrarraxfrx/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/rakin-12">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ════════════════════════════ QUOTE & FOOTER ═══════════════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Rakin/A-Rakin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Rakin/A-Rakin/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/A-Rakin/A-Rakin/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
