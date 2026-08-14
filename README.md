@@ -155,15 +155,15 @@ const abrar = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Rakin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Abrar's GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=A-Rakin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Abrar's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rakin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Rakin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak Stats" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak Stats" width="70%"/>
 </div>
 
 <br/>
