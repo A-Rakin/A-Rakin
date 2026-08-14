@@ -117,62 +117,22 @@ fun_facts:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### 🧬 AI & Deep Learning
-<a href="https://github.com/A-Rakin/brain-tumor-mri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=brain-tumor-mri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/forecasting-dengue-outbreaks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=forecasting-dengue-outbreaks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/Breast-Cancer-Classification-using-Deep-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=Breast-Cancer-Classification-using-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
+|  | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 🧠 | **[Brain Tumor MRI](https://github.com/A-Rakin/brain-tumor-mri)** | MRI-based brain tumor classification using deep learning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🦟 | **[Dengue Outbreak Forecasting](https://github.com/A-Rakin/forecasting-dengue-outbreaks)** | Predicting dengue outbreaks using ML models | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🎗️ | **[Breast Cancer Classification](https://github.com/A-Rakin/Breast-Cancer-Classification-using-Deep-Learning)** | Deep learning model for breast cancer detection ⭐ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| 😷 | **[Face Mask Detection](https://github.com/A-Rakin/Face-Mask-Detection-Using-CNN)** | CNN-based face mask detection system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🫁 | **[Pneumonia Detection](https://github.com/A-Rakin/pneumonia-detection-chest-x-ray-images)** | Chest X-ray pneumonia detection with deep learning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 📝 | **[CoverCraft AI](https://github.com/A-Rakin/covercraftai)** | AI-powered cover letter generator | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 📄 | **[Resumate](https://github.com/A-Rakin/resumate)** | Smart resume builder with AI assistance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔬 | **[ResearchHub AI](https://github.com/A-Rakin/researchhubAi)** | AI-powered research paper assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🧭 | **[PaperCompass](https://github.com/A-Rakin/papercompass)** | Navigate & discover research papers intelligently | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌍 | **[LinguaMate](https://github.com/A-Rakin/linguamate)** | NLP-powered language learning assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 👁️ | **[VisionBoard AI](https://github.com/A-Rakin/visionboard-ai)** | AI-driven vision board & goal tracker | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏠 | **[Smart Room Monitoring](https://github.com/A-Rakin/smart-room-monitoring-system)** | IoT smart room monitoring system ⭐ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-</td>
-<td width="50%">
-
-### 🚀 Applications & Tools
-<a href="https://github.com/A-Rakin/covercraftai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=covercraftai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/resumate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=resumate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/researchhubAi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=researchhubAi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 Research & NLP
-<a href="https://github.com/A-Rakin/papercompass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=papercompass&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/linguamate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=linguamate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🌐 Web & Mobile
-<a href="https://github.com/A-Rakin/pcnexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=pcnexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-<a href="https://github.com/A-Rakin/vaultcipher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=A-Rakin&repo=vaultcipher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
