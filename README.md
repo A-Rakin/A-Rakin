@@ -155,22 +155,22 @@ const abrar = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=A-Rakin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Abrar's GitHub Stats"/>
+  <img height="190em" src="https://github-stats-extended.vercel.app/api?username=A-Rakin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true&cache_bypass=1" alt="Abrar's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Rakin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
+  <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Rakin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&cache_bypass=1" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak Stats" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=A-Rakin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555&cache_bypass=1" alt="GitHub Streak Stats" width="70%"/>
 </div>
 
 <br/>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Rakin&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Rakin&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph&cache_bypass=1" width="95%"/>
 </div>
 
 ---
@@ -242,14 +242,8 @@ const abrar = {
 
 <br/>
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A-Rakin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
