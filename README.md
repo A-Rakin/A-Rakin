@@ -9,7 +9,7 @@
   
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%AC+Exploring+the+Frontiers+of+Deep+Learning;%F0%9F%A7%A0+Graph+Neural+Networks+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%AC+Exploring+the+Frontiers+of+Deep+Learning;%F0%9F%A7%A0+Biomedical+Signal+Processing+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
   </a>
   
   <!-- PROFILE VIEWS & SOCIAL BADGES -->
