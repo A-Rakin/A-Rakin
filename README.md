@@ -43,12 +43,12 @@ const abrar = {
     education:   "BSc in CSE — IUBAT",
     
     currentlyWorking: [
-        "Software Developer Intern",
+        "Software Development",
         "Research & Publications"
 ],
     
     domains: {
-        ai: [ "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Generative AI", "Explainable AI"],
+        ai: [ "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Generative AI", "Explainable AI", Biomedical Signal Processing],
         mobile: ["Flutter", "Android"],
         web framework:    ["Django", ".NET", "Flask", "Express.js"],
         Database:    ["MySQL", "SQLite", "PostgreSQL"],
